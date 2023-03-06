@@ -538,6 +538,10 @@ footer {
         width: 16px;
         height: 16px;
     }
+	
+    label {
+        padding-top: 5px;
+    }
 
     nav {
         height: 60px;
@@ -549,7 +553,9 @@ footer {
     }
 
     .tags {
-        width: 250px;
+        width: 220px;
+        min-width: 180px;
+        max-width: 250px;
     }
 
     nav li {
@@ -637,6 +643,10 @@ footer {
     .table {
         margin: 0;
         padding-left: 25px;
+    }
+    
+    .table td {
+        padding-left: 10px;
     }
 
 
