@@ -559,7 +559,7 @@ footer {
     }
 
     .directory {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     
@@ -632,7 +632,7 @@ footer {
 
     .color {
         border-radius: 8px;
-        width: 190px;
+        width: 170px;
         height: 100px;
     }
 
@@ -646,7 +646,7 @@ footer {
     }
     
     .table td {
-	font-size: 12px;
+	font-size: 14px;
         padding-left: 10px;
     }
 
