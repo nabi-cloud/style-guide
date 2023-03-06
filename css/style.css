@@ -558,8 +558,8 @@ footer {
         max-width: 250px;
     }
 
-    nav li {
-        font-size: 12px;
+    .directory {
+        font-size: 14px;
     }
 
     
@@ -646,6 +646,7 @@ footer {
     }
     
     .table td {
+	font-size: 10px;
         padding-left: 10px;
     }
 
