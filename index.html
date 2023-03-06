@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Meta-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!--CSS-->
+    <link rel="stylesheet" type="text/css" href="./css/reset.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+    <title>Style Guide</title>
+    <link rel="icon" type="image/icon" href="./resources/logo-light.svg">
+</head>
+
+<body class="background">
+    <nav>
+        <div>
+            <a class="home-link" href="index.html">
+                <img class="logo" title="Logo" alt="Logo" src="./resources/logo-light.svg">
+            </a>
+        </div>
+
+        <div class="tags">
+            <ul>
+                <li><a class="directory" href="#palette">Palette</a></li>
+                <li><a class="directory" href="#typography">Typography</a></li>
+                <li><a class="directory" href="#buttons">Buttons</a></li>
+            </ul>
+        </div>
+
+        <label class="switch">
+            <input type="checkbox" onclick="toggleDarkMode()" id="modeToggle">
+            <span class="slider round"></span>
+        </label>
+        <script src="script.js"></script>
+    </nav>
+    
+    <a title="Back to Top" href="#top">
+        <div class="back-top">
+            <img src="./resources/triangle.svg">
+        </div>
+    </a>
+
+    <!--Hero Section-->
+    <header id="top">
+        <h1>Greetings, fellow coders.</h1>
+        <p class="p">Check out my custom designed style guide today and take your website to the next level!</p>
+        <div class="bar jordy-blue"></div>
+    </header>
+
+    <main>
+        <!--Palette Section-->
+        <section class="palette-section" id="palette">
+            <div>
+                <h1  class="subtitle">Palette</h1>
+                <p class="definition">Your brand palette should consist of a carefully curated selection of colors that reflect your website’s personality and values.</p>
+                <div class="bar jordy-blue"></div>
+            </div>
+
+            <div class="color-container">
+                <div title="Jordy Blue" class="color jordy-blue"></div>
+                <div class="table">
+                    <table>
+                        <tr>
+                            <th class="property">HEX</th>
+                            <td>#9FCCFA</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSB</th>
+                            <td>210, 36, 98</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSL</th>
+                            <td>210, 90%, 80%</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">RGB</th>
+                            <td>159, 204, 250</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="color-container">
+                <div title="Blue (Crayola)" class="color blue-crayola"></div>
+                <div class="table">
+                    <table>
+                        <tr>
+                            <th class="property">HEX</th>
+                            <td>#0974F1</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSB</th>
+                            <td>212, 96, 95</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSL</th>
+                            <td>212, 93%, 49%</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">RGB</th>
+                            <td>9, 116, 241</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="color-container">
+                <div title="Vanilla" class="color vanilla"></div>
+                <div class="table">
+                    <table>
+                        <tr>
+                            <th class="property">HEX</th>
+                            <td>#F6EFA6</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSB</th>
+                            <td>55, 33, 96</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">HSL</th>
+                            <td>55, 82%, 81%</td>
+                        </tr>
+
+                        <tr>
+                            <th class="property">RGB</th>
+                            <td>246, 239, 166</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!--Typography Section-->
+        <section class="typography-section" id="typography">
+            <div>
+                <h1 class="subtitle">Typography</h1>
+                <p class="definition">Typography involves selecting the right fonts and arranging them in a visually appealing and readable manner to enhance user experience.</p>
+                <div class="bar jordy-blue"></div>
+            </div>
+
+            <div class="font-style">
+                <h1 class="h1 style">H1: Main Title</h1>
+                <table class="typography">
+                    <tr>
+                        <th class="css property">Font-family:</th>
+                        <td>Barlow</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-size:</th>
+                        <td>64px</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-weight:</th>
+                        <td>Bold 700</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Color:</th>
+                        <td>#333333</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="font-style">
+                <h1 class="subtitle style">H2: Subtitle</h1>
+                <table class="typography">
+                    <tr>
+                        <th class="css property">Font-family:</th>
+                        <td>Barlow</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-size:</th>
+                        <td>48px</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-weight:</th>
+                        <td>Bold 700</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Color:</th>
+                        <td>#333333</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="font-style">
+                <h1 class="subtitle style h3">H3: Emphasis</h1>
+                <table class="typography">
+                    <tr>
+                        <th class="css property">Font-family:</th>
+                        <td>Barlow</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-size:</th>
+                        <td>24px</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-weight:</th>
+                        <td>Medium 500</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Color:</th>
+                        <td>#333333</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="font-style">
+                <h1 class="paragraph style">P: Paragraph</h1>
+                <table class="typography">
+                    <tr>
+                        <th class="css property">Font-family:</th>
+                        <td>Barlow</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-size:</th>
+                        <td>24px</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Font-weight:</th>
+                        <td>Regular 400</td>
+                    </tr>
+
+                    <tr>
+                        <th class="css property">Color:</th>
+                        <td>#333333</td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+
+        <!--Buttons Section-->
+        <section class="buttons-section" id="buttons">
+            <div>
+                <h1 class="subtitle">Buttons</h1>
+                <p class="definition">Buttons provide a clear call-to-action and guide users towards completing specific tasks or goals on the site.</p>
+                <div class="bar jordy-blue"></div>
+            </div>
+            
+            <div class="flex-container">
+                <div class="button-container">
+                    <button class="button blue-crayola">BUTTON</button>
+                    <label class="attribute">Default</label>
+                </div>
+                <div class="button-container">
+                    <button class="button vanilla">BUTTON</button>
+                    <label class="attribute">Hover</label>
+                </div>
+                <div class="button-container">
+                    <button class="button vanilla">BUTTON</button>
+                    <label class="attribute">Active</label>
+                </div>
+                <div class="button-container">
+                    <button class="button disabled">BUTTON</button>
+                    <label class="attribute">Disabled</label>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    
+    <footer>
+        <div class="flex">
+            <div class="footer-text">
+                <div class="bar vanilla"></div>
+                <p class="footer-bold">Did you find this style guide helpful?</p>
+                <p>Follow me on my coding journey at GitHub and Codecademy.</p>
+            </div>
+
+            <div class="logos">
+                <a href="https://github.com/nabi-cloud" target="_blank">
+                    <img class="github-logo" alt="GitHub Logo" title="GitHub" src="./resources/github-mark.png">
+                </a>
+                <a href="https://www.codecademy.com/profiles/nabi-cloud" target="_blank">
+                    <img class="codecademy-logo" alt="Codecademy Logo" title="Codecademy" src="./resources/codecademy-logo.png">
+                </a>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>©2023 | nabi-cloud</p>
+        </div>
+    </footer>
+</body>
+</html>
