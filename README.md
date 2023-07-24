@@ -1,31 +1,32 @@
 # Style Guide: Basic Design System
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
 ![Style Guide Logo](https://i.postimg.cc/PqcDhXhf/style-guide-cover.png)
 
 
 ## Project Overview
-In this project, I created a design system for my website to organize the visual elements, such as colors, fonts, and text styles, to ensure consistency throughout the site. A design system is an essential tool for developers and designers as it helps document the visual vocabulary and components, leading to a friendly user experience.
+Created a design system for the website to organize the visual elements, such as colors, fonts, and text styles, to ensure design consistency.
 
 <br>
 
 ## Prerequisites
-Before starting this project, I completed essential lessons covering the CSS box model, display and positioning, colors, and typography.
+Completed essential lessons covering the CSS box model, display and positioning, colors, and typography.
 
 <br>
 
 ## Project Requirements
-The style guide includes the following crucial sections:
+The style guide includes the following sections:
 
 ### Colors
 
-For each color in the design system, I have carefully selected a unique name to identify it. Alongside the name, there's a color box to visualize the actual shade. Additionally, I included the corresponding CSS value used to define the color (in formats like hex, ```rgb()```, ```rgba()```, ```hsl()```, or ```hsla()```).
+Carefully selected a unique name to identify it. Alongside the name, there's a color box to visualize the actual shade and included the corresponding CSS value used to define the color (in formats like hex, ```rgb()```, ```rgba()```, ```hsl()```, or ```hsla()```).
 
 ### Fonts
 
-In the Fonts section, I showcased the different font styles that I intended to use on my website. For each font, I specified the font name and presented various styles, such as plain, bold and italic, underlined, etc.
+The Fonts section showcases the different font styles that are intended to use on the website. Specified each font name and presented various styles, such as plain, bold and italic, underlined, etc.
 
 ### Text Styles for Page Elements
 
-The Text Styles section outlines specific text styles tailored to different page elements, such as headings, subheadings, paragraphs, and more. For each page element, I included all the relevant style rules, such as font-weight, font-size, font-family, etc.
+The Text Styles section outlines specific text styles tailored to different page elements, such as headings, subheadings, paragraphs, and more. Included all the relevant style rules, such as font-weight, font-size, font-family, etc.
 
 ### Additional Styles
 
@@ -34,7 +35,7 @@ To enhance the design system's aesthetics, I went beyond the basic requirements 
 <br>
 
 ## Spotlight Feature: Dark Mode
-One of the standout features I implemented in my design system is Dark Mode. When activated, Dark Mode modifies the website's colors and styles, providing a visually appealing and comfortable experience for users. This feature was implemented using JavaScript.
+One of the standout features implemented in my design system is Dark Mode. When activated, Dark Mode modifies the website's colors and styles, providing a visually appealing and comfortable experience for users. This feature was implemented using JavaScript.
 
 <br>
 
