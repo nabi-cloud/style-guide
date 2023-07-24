@@ -8,7 +8,7 @@ In this project, I created a design system for my website to organize the visual
 <br>
 
 ## Prerequisites
-Before starting this project, I completed essential lessons covering the CSS box model, display and positioning, colors, and typography. Though it's optional, you may choose to leverage more advanced CSS layout concepts like flexbox and responsive design.
+Before starting this project, I completed essential lessons covering the CSS box model, display and positioning, colors, and typography.
 
 <br>
 
@@ -49,5 +49,3 @@ One of the standout features I implemented in my design system is Dark Mode. Whe
 Building this design system has been an exciting and rewarding experience. Throughout the project, I learned the importance of creating a structured and consistent visual language for a website. The process of carefully selecting colors, fonts, and text styles allowed me to refine the overall aesthetic and friendliness of user experience.
 
 The Dark Mode feature was a particularly enjoyable addition. Although JavaScript was out of the scope of my current learning progress, taking the project beyond the basic requirements allowed me to explore and experiment with additional styles and features. I was able to enhance the design system's appearance and functionality, making it not just a reference but an inspiring resource for future endeavors.
-
-This project has sparked my passion for web design, and I look forward to exploring more advanced concepts to take my skills to the next level.
