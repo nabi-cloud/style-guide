@@ -35,15 +35,15 @@ To enhance the design system's aesthetics, I went beyond the basic requirements 
 
 <br>
 
-## Spotlight Feature: Dark Mode
-One of the standout features implemented in my design system is Dark Mode. When activated, Dark Mode modifies the website's colors and styles, providing a visually appealing and comfortable experience for users. This feature was implemented using JavaScript.
+## Project Extensions
+- **Additional Components:** Documented various buttons and components that are planned to use on the website.
+- **Responsive Design:** Implemented responsive design to ensure a polished look across different screen sizes.
+- **Navigation Bar:** Divided the website into sections with a cohesive navigation system, facilitating easy access.
 
 <br>
 
-## Project Extensions
-- **Additional Components:** Documented various buttons and components that are planned to use on the website.
-- **Responsive Design:** Implemented responsive design to ensure the site looks polished across different screen sizes.
-- **Navigation Bar:** Divided the website into sections with a cohesive navigation system, facilitating easy access.
+## Going the Extra Mile: Dark Mode
+One of the standout features implemented in my design system is Dark Mode. When activated, Dark Mode modifies the website's colors and styles, providing a visually appealing and comfortable experience for users. This feature was implemented using JavaScript.
 
 <br>
 
