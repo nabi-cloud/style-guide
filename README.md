@@ -35,6 +35,16 @@ To enhance the design system's aesthetics, I went beyond the basic requirements 
 
 <br>
 
+## Wireframing and Prototyping
+
+![Style Guide Figma Design](https://i.postimg.cc/bN0cCgc7/style-guide-figma-design.png)
+
+<br>
+
+Wireframing and prototyping before jumping right into coding allowed me to envision the layout, user experience, and interactions upfront. This approach provided room for adjustments easily and organize and group elements within the design effectively. Ultimately, it saves more time and effort.
+
+<br>
+
 ## Project Extensions
 - **Additional Components:** Documented various buttons and components that are planned to use on the website.
 - **Responsive Design:** Implemented responsive design to ensure a polished look across different screen sizes.
