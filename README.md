@@ -51,3 +51,7 @@ One of the standout features implemented in my design system is Dark Mode. When 
 Building this design system has been an exciting and rewarding experience. Throughout the project, I learned the importance of creating a structured and consistent visual language for a website. The process of carefully selecting colors, fonts, and text styles allowed me to refine the overall aesthetic and friendliness of user experience.
 
 The Dark Mode feature was a particularly enjoyable addition. Although JavaScript was out of the scope of my current learning progress, taking the project beyond the basic requirements allowed me to explore and experiment with additional styles and features. I was able to enhance the design system's appearance and functionality, making it not just a reference but an inspiring resource for future endeavors.
+
+<br>
+
+@Mar 2023
